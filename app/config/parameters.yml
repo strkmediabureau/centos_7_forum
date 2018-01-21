@@ -1,0 +1,12 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_host: 192.168.56.101
+    database_port: null
+    database_name: myforum
+    database_user: dbuser
+    database_password: 123
+    mailer_transport: smtp
+    mailer_host: 192.168.56.101
+    mailer_user: null
+    mailer_password: null
+    secret: ThisTokenIsNotSoSecretChangeIt
